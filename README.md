@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎓 I'm a student at Georgia Tech, passionate about tech that blends hardware and intelligence  <br>🚀 I’m currently working on a pet mood detection ML model using computer vision and the Stanford Dogs dataset  <br>🤝 I’m looking to collaborate on AI-driven sports betting strategy tools  <br>🙋‍♂️ I’m looking for help with ROS and SLAM for autonomous navigation projects  <br>
+<br>🎓 I'm a student passionate about tech that blends hardware and intelligence  <br>🚀 I’m currently working on a pet mood detection ML model using computer vision and the Stanford Dogs dataset  <br>🤝 I’m looking to collaborate on AI-driven sports betting strategy tools  <br>🙋‍♂️ I’m looking for help with ROS and SLAM for autonomous navigation projects  <br>
 
 
 ## 🌐 Socials:
