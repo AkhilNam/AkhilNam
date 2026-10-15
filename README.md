@@ -1,10 +1,53 @@
-# 💫 About Me:
-<br>🎓 I'm a student passionate about tech that blends hardware and intelligence  <br>🚀 I’m currently working on a pet mood detection ML model using computer vision and the Stanford Dogs dataset  <br>🤝 I’m looking to collaborate on AI-driven sports betting strategy tools  <br>🙋‍♂️ I’m looking for help with ROS and SLAM for autonomous navigation projects  <br>
+# Akhil Nampally
 
+### World models for robotics. Reliable software around them.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilnampally) 
+I'm a CS and mathematics student at Georgia Tech working on robot learning, computer vision, and ML systems. I previously worked on production ML data pipelines at Meta. I like projects where model behavior and software reliability both matter.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[LinkedIn](https://linkedin.com/in/akhilnampally) · [Explore my repositories](https://github.com/AkhilNam?tab=repositories)
 
+## What I'm working on
+
+- **Robot learning:** hierarchical world models, goal-conditioned policies, and planning in simulation.
+- **ML systems:** reproducible training and evaluation, data validation, and model monitoring.
+- **Software engineering:** reliable backend services, concurrency, APIs, and full-stack tools.
+
+## Selected projects
+
+### [Hierarchical world models on AntMaze](https://github.com/AkhilNam/hwm-director-antmaze)
+Compare learned high-level dynamics with worker-driven rollouts for goal-conditioned navigation. Shared baselines, matched evaluation seeds, and explicit model comparisons.
+
+`Python` · `PyTorch` · `Offline RL` · `Simulation`
+
+### [RelayQ](https://github.com/AkhilNam/relayq)
+A webhook delivery service with idempotent enqueue, leased workers, crash recovery, retries, and dead-letter replay. Includes a React dashboard, PostgreSQL integration tests, and CI. A portfolio implementation with at-least-once delivery, not a claim of production deployment.
+
+`Go` · `PostgreSQL` · `React` · `TypeScript` · `Docker`
+
+### [PhantomShield](https://github.com/AkhilNam/PhantomShield)
+Local deepfake-risk monitoring for video calls, with face detection, score smoothing, configurable thresholds, and an Electron interface.
+
+`Python` · `Computer vision` · `Electron`
+
+### [ROS autonomous navigation](https://github.com/AkhilNam/ros-autonomous-navigation)
+TurtleBot3 navigation in Gazebo with SLAM, AMCL localization, path planning, and a Python goal-sequencing node. Simulation only.
+
+`ROS` · `Gazebo` · `Python`
+
+### [Efficient LLMs through dynamic quantization](https://github.com/AkhilNam/EIC_LLM_SDQ)
+GPT-2 fine-tuning experiments comparing quantization profiles, cyclic precision training, and robustness to typo attacks under a fixed training budget.
+
+`PyTorch` · `Hugging Face` · `LoRA` · `Model evaluation`
+
+### [Undoable](https://github.com/AkhilNam/undoable)
+A reversible-change workflow for coding assistants: split risky changes, plan migrations, review diffs, and define rollback paths before merging.
+
+`Developer tools` · `Testing` · `Code review`
+
+## Tools I use
+
+**ML and robotics:** Python, PyTorch, OpenCV, Hugging Face, NumPy, pandas, scikit-learn, ROS/Gazebo  
+**Backend and full stack:** Go, SQL, PostgreSQL, TypeScript, JavaScript, React, Node.js, FastAPI  
+**Engineering:** Git, Linux, Docker, CI, unit and integration tests
+
+I'm interested in software engineering and ML engineering roles where I can build, test, and understand the whole system.
