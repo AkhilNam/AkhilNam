@@ -1,8 +1,6 @@
 # Akhil Nampally
 
-### World models for robotics. Reliable software around them.
-
-I'm a CS and mathematics student at Georgia Tech working on robot learning, computer vision, and ML systems. I previously worked on production ML data pipelines at Meta. I like projects where model behavior and software reliability both matter.
+I'm a CS and mathematics student at Georgia Tech working on world models, computer vision, and ML systems. I previously worked on production ML data pipelines at Meta. I like projects where model behavior and software reliability both matter.
 
 [LinkedIn](https://linkedin.com/in/akhilnampally) · [Explore my repositories](https://github.com/AkhilNam?tab=repositories)
 
